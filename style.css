@@ -1,0 +1,40 @@
+body{
+    background-color:#33322f;
+}
+h1{
+    font-family:'tangerine',serif;
+    font-size: 150px;
+    margin:100px 0px 0px 700px ;
+    color:#fa0036;
+    text-decoration: underline;
+    font-weight: 1000px;
+}
+
+.dice{
+    display:inline-block;
+    font-family:'tangerine',serif;
+    font-size: 80px;
+    margin-left: 500px;;
+    color:red;
+    align-items: center;
+}
+.dice .img1
+{
+    border-radius: 30px;
+}
+.dice .img2{
+    border-radius: 30px;
+}
+.btn{
+    margin-left: 900px;
+    margin-top: 120px;
+    font-size:50px;
+    display: block;
+    background-color: red;
+    border: none;
+    border-radius: 20px;
+    color:#ffffff;
+}
+button:hover{
+    cursor: pointer;
+}
